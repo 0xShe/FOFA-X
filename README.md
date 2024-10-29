@@ -3,8 +3,8 @@
 
 ## 简介
 **FOFA-X 查询工具**是一个基于Python开发的图形化应用程序，专为网络安全研究人员设计。该工具通过FOFA API进行查询，提供了便捷的界面、批量导出、标签管理等功能。**
-** 作者0xShe**
-** 下载地址：https://github.com/0xShe/FOFA-X/releases/tag/Fofa-X**
+### 作者0xShe
+### 下载地址：https://github.com/0xShe/FOFA-X/releases/tag/Fofa-X
 ---
 
 ## 📋 功能概览
