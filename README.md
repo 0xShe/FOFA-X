@@ -27,7 +27,8 @@
 ## 🛠️ 使用指南
 ### 1. 启动程序
 运行 `Fofa-X` 程序后，将看到如下界面：
-![image](https://github.com/user-attachments/assets/1d5db17d-d78c-43e8-a160-d2adb21342eb)
+![image](https://github.com/user-attachments/assets/99400693-aa0d-4f54-bb5b-573671d94203)
+
 
 - **Key输入框**：输入FOFA API的Key。
 - **条数输入框**：设置查询返回的结果条数。
